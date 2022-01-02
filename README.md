@@ -22,7 +22,7 @@ e.g. 1. File explorer, 2 browser (Vivaldi), 3 mail, 4 obsidian 5 word 6 zotero, 
 - Characters: "1" &rarr; with a hidden character "'1" &rarr; which will not be included in the calculation. Usually due to imported columns of numbers, but the entry was interpretated as a character.
 - 
 ✔  Distorted cell relationship, no warning:
-![](Pasted image 20220102111416.png)
+![Copy-cut](Pasted image 20220102111416.png)
 
 
 - 
