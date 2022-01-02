@@ -23,4 +23,4 @@ e.g. 1. File explorer, 2 browser (Vivaldi), 3 mail, 4 obsidian 5 word 6 zotero, 
  
 ✔  Distorted cell relationship, no warning:
 
-![Image not found: figExcel/Pasted%20image%2020220102111416.png]
+![Copy-cut](figExcel/Pasted%20image%2020220102111416.png)
