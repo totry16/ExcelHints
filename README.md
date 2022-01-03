@@ -19,7 +19,7 @@ e.g. 1. File explorer, 2 browser (Vivaldi), 3 mail, 4 obsidian 5 word 6 zotero, 
 
 ✔ Preformatting.
 - Dates: E.g. number "1.1" &rarr; "1.jan" &rarr; "1.jan.21" &rarr; "44197" (datenumber)
-- Characters: "1" &rarr; with a hidden character "'1" &rarr; which will not be included in the calculation. Usually due to imported columns of numbers, but the entry was interpretated as a character.
+- Characters: "1" &rarr; with a hidden character "'1" &rarr; which will not be included in the calculation. Usually due to imported columns of numbers, but the entry was interpreted as a character.
  
 ✔  Distorted cell relationship, no warning:
 
