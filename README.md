@@ -60,4 +60,4 @@ e.g. 1. File explorer, 2 browser (Vivaldi), 3 mail, 4 obsidian 5 word 6 zotero, 
 ✔ Copying by draging -> 
 
 
-Bruke =a1=b1=SANN
+Check =a1=b1 ->TRUE
